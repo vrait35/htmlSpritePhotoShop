@@ -1,0 +1,31 @@
+.a{
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #00a6c8;
+}
+.a1{
+  background-image: url(../ornament.png);
+  background-repeat: no-repeat;
+  padding-top: 470px;
+  padding-bottom: 470px;
+  padding-left: 100px;
+  padding-right: 50px;
+  width: 10px;
+  background-color: darkblue;
+    background-color: #00a6c8;
+}
+.a2{
+  margin-left: 300px;
+  background-image: url(../solnce.png);
+  background-repeat: no-repeat;
+  padding-top: 470px;
+  padding-bottom: 170px;
+  padding-left: 100px;
+  padding-right: 600px;
+  width: 10px;
+  background-color: darkred;
+    background-color: #00a6c8;
+}
+body{
+    background-color: #00a6c8;
+}

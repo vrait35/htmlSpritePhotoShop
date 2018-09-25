@@ -1,0 +1,21 @@
+.app1{
+  background-image: url(../auto.png);
+  background-repeat: no-repeat;
+  background-color: darkred;
+  color:red;
+  background-position: 210px -40px;
+}
+.app2{
+  background-image: url(../auto.png);
+  background-repeat: no-repeat;
+  background-color: darkgreen;
+  color:red;
+  background-position: 210px 5px;
+}
+.app3{
+  background-image: url(../auto.png);
+  background-repeat: no-repeat;
+  background-color: darkblue;
+  color:red;
+  background-position: 210px -13px;
+}

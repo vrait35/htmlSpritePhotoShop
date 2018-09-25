@@ -1,0 +1,39 @@
+body{
+  color:#5b5d5c;
+  font-family: 'Segoe UI'
+}
+h2{
+  margin-bottom: 0px;
+  margin-top: 70px;
+}
+h1{
+  margin-bottom: 70px;
+}
+.a1, .a2, .a3{
+  display: inline-block;
+}
+.a1{
+  width: 30%;
+  text-align: right;
+}
+.a1 h2{
+  text-align: right;
+}
+.a2{
+  width: 30%;
+  text-align: center;
+}
+img {
+  text-align: center;
+  margin: auto;
+  width: 210px;
+}
+.a3{
+    width: 30%;
+  text-align: left;
+}
+.q1{
+    background-image: url(../iphonex.png);
+    background-repeat: no-repeat;
+  background-position: 250px 10px;
+}
